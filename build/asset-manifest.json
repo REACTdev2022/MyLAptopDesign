@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d3fbbbd.css",
+    "main.js": "/static/js/main.491b189e.js",
+    "static/js/787.bde6bf7e.chunk.js": "/static/js/787.bde6bf7e.chunk.js",
+    "static/media/wallpaper.jpg": "/static/media/wallpaper.a7370aa2d081f25d2bd5.jpg",
+    "static/media/hp_Logo.png": "/static/media/hp_Logo.2c61005ac0d76eefa795.png",
+    "static/media/Profile.jpeg": "/static/media/Profile.90e742dea0490bb0163a.jpeg",
+    "static/media/coverBlur.jpg": "/static/media/coverBlur.4382532e1c94bea4ff5a.jpg",
+    "static/media/cover.jpg": "/static/media/cover.36c0bb02038565e08f97.jpg",
+    "static/media/celebrate.jpg": "/static/media/celebrate.c661c892f50f4012c39b.jpg",
+    "static/media/desktop.JPG": "/static/media/desktop.6eb24f1f6a90b414b325.JPG",
+    "static/media/webcam.png": "/static/media/webcam.18efcd4c77bda70a474e.png",
+    "static/media/taskbar.png": "/static/media/taskbar.0d047ef92f7958f852fb.png",
+    "index.html": "/index.html",
+    "main.3d3fbbbd.css.map": "/static/css/main.3d3fbbbd.css.map",
+    "main.491b189e.js.map": "/static/js/main.491b189e.js.map",
+    "787.bde6bf7e.chunk.js.map": "/static/js/787.bde6bf7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3fbbbd.css",
+    "static/js/main.491b189e.js"
+  ]
+}
