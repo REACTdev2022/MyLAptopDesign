@@ -89,7 +89,7 @@ const Laptop = () => {
         </button>
         <ul className="guide text-white mt-4 text-center list-none">
           <li> Enter the Power button</li>
-          <li>Password :1234</li>
+          <li>Password:1234</li>
         </ul>
       </div>
     </div>
