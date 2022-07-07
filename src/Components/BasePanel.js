@@ -1,7 +1,7 @@
 import React from "react";
 import Keyboard from "./Keyboard";
 
-// Speaker, keyboard and touchpad of Laptop (base panel)
+// Speaker, keyboard and touchpad of Laptop (base panel) 
 const BasePanel = ({ handlePower, handleFingerScan }) => {
   const Speaker = () => {
     return (
